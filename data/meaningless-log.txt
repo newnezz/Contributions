@@ -31,3 +31,4 @@
 - 2026-04-30T20:42:03.077Z :: increased mystery in logic flow (d69ere)
 - 2026-04-30T21:08:10.588Z :: increased dependency on luck (utrpf3)
 - 2026-04-30T21:32:59.506Z :: aligned tabs with destiny (0hx37y)
+- 2026-04-30T21:55:47.266Z :: smoothed scroll anxiety (aokwh1)
