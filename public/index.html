@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Meaningless Commit Satire App</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+    <main class="container">
+      <h1>Meaningless Commit Satire App</h1>
+      <p class="subtitle">
+        This project intentionally creates meaningless commits to parody contribution-graph
+        gaming. It is not a real signal of engineering skill.
+      </p>
+
+      <section class="card">
+        <h2>Current Settings</h2>
+        <pre id="configView">Loading config...</pre>
+      </section>
+
+      <section class="card">
+        <h2>Recent Generated Commits</h2>
+        <ul id="commitList">
+          <li>Loading commits...</li>
+        </ul>
+      </section>
+
+      <section class="card">
+        <h2>Change Frequency</h2>
+        <ol>
+          <li>Edit <code>config/commit-config.json</code> for <code>commitsPerRun</code>.</li>
+          <li>Edit workflow cron in <code>.github/workflows/meaningless-commits.yml</code>.</li>
+          <li>Trigger <code>workflow_dispatch</code> or wait for next schedule.</li>
+        </ol>
+      </section>
+    </main>
+    <script type="module" src="./app.js"></script>
+  </body>
+</html>

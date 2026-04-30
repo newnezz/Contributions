@@ -1,0 +1,56 @@
+name: Meaningless Commits
+
+concurrency:
+  group: meaningless-commits-${{ github.ref }}
+  cancel-in-progress: false
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Use tracking branch (avoid detached HEAD push races)
+        run: |
+          git fetch origin
+          git checkout -B "$GITHUB_REF_NAME" "origin/$GITHUB_REF_NAME"
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Configure git identity
+        run: |
+          git config user.name "meaningless-commit-bot"
+          git config user.email "actions@users.noreply.github.com"
+
+      - name: Generate meaningless commit(s)
+        run: npm run generate:commit
+
+      - name: Push with rebase retries
+        run: |
+          set -euo pipefail
+          branch="$GITHUB_REF_NAME"
+          for attempt in 1 2 3 4 5 6 7 8; do
+            git fetch origin "$branch"
+            git rebase "origin/$branch"
+            if git push origin "HEAD:$branch"; then
+              echo "Push succeeded on attempt $attempt"
+              exit 0
+            fi
+            echo "Push failed (attempt $attempt), retrying after rebase..."
+          done
+          echo "Push failed after all attempts"
+          exit 1
