@@ -7,3 +7,4 @@
 - 2026-04-30T04:34:24.644Z :: reduced latency on fake requests (gadmim)
 - 2026-04-30T05:43:32.583Z :: resolved phantom race condition (g1asfu)
 - 2026-04-30T06:37:54.325Z :: improved code posture (g28m1j)
+- 2026-04-30T07:31:34.452Z :: downgraded function to function- (tuq9gm)
