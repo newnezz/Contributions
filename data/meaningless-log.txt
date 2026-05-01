@@ -38,3 +38,4 @@
 - 2026-04-30T23:25:51.484Z :: introduced new standard, ignored it (146w97)
 - 2026-04-30T23:46:03.173Z :: simplified complexity into complex simplicity (0tx826)
 - 2026-05-01T00:07:04.722Z :: increased elegance, decreased usefulness (k8q02y)
+- 2026-05-01T01:12:29.612Z :: improved error message clarity for ghosts (fzzh5p)
