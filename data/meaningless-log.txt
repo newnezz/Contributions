@@ -40,3 +40,4 @@
 - 2026-05-01T00:07:04.722Z :: increased elegance, decreased usefulness (k8q02y)
 - 2026-05-01T01:12:29.612Z :: improved error message clarity for ghosts (fzzh5p)
 - 2026-05-01T01:56:50.117Z :: bumped version for morale (pelhhr)
+- 2026-05-01T03:07:13.983Z :: gaslit the linter (60eiym)
