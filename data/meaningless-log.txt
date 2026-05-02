@@ -100,3 +100,4 @@
 - 2026-05-02T10:46:01.126Z :: removed abstraction, exposed raw chaos (7pnt0r)
 - 2026-05-02T11:07:16.448Z :: parallelized unnecessary work (qvjnpk)
 - 2026-05-02T11:27:37.147Z :: added comment explaining the inexplicable (3du7wr)
+- 2026-05-02T11:47:08.159Z :: updated changelog with lies (wyautt)
