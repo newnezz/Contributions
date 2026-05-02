@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-02T11:47:08.173Z",
+  "generatedAt": "2026-05-02T12:04:01.053Z",
   "items": [
+    {
+      "timestamp": "2026-05-02T12:04:01.053Z",
+      "message": "added comments that ask more questions (221y5v)"
+    },
     {
       "timestamp": "2026-05-02T11:47:08.173Z",
       "message": "updated changelog with lies (wyautt)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-04-30T02:00:34.086Z",
       "message": "fixed bug that only existed emotionally (vitwkd)"
-    },
-    {
-      "timestamp": "2026-04-30T01:15:07.793Z",
-      "message": "improved hover regret handling (hd5lp6)"
     }
   ]
 }
