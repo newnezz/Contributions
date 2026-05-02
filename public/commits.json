@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-02T11:27:37.164Z",
+  "generatedAt": "2026-05-02T11:47:08.173Z",
   "items": [
+    {
+      "timestamp": "2026-05-02T11:47:08.173Z",
+      "message": "updated changelog with lies (wyautt)"
+    },
     {
       "timestamp": "2026-05-02T11:27:37.164Z",
       "message": "added comment explaining the inexplicable (3du7wr)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-04-30T01:15:07.793Z",
       "message": "improved hover regret handling (hd5lp6)"
-    },
-    {
-      "timestamp": "2026-04-30T00:32:34.043Z",
-      "message": "wrote tests that always pass (je0lzt)"
     }
   ]
 }
