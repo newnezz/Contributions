@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-03T10:05:08.345Z",
+  "generatedAt": "2026-05-03T10:29:55.587Z",
   "items": [
+    {
+      "timestamp": "2026-05-03T10:29:55.587Z",
+      "message": "reduced developer confidence (5rivt3)"
+    },
     {
       "timestamp": "2026-05-03T10:05:08.345Z",
       "message": "improved hover regret handling (p5fbbt)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-01T10:49:05.877Z",
       "message": "removed edge case everyone depended on (4iqrq7)"
-    },
-    {
-      "timestamp": "2026-05-01T10:16:38.089Z",
-      "message": "applied hotfix to the hotfix's hotfix (ra73ei)"
     }
   ]
 }
