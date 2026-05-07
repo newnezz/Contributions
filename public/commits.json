@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-07T16:52:39.146Z",
+  "generatedAt": "2026-05-07T17:28:05.846Z",
   "items": [
+    {
+      "timestamp": "2026-05-07T17:28:05.846Z",
+      "message": "enabled flag: DO_THE_THING (64b0gx)"
+    },
     {
       "timestamp": "2026-05-07T16:52:39.146Z",
       "message": "redesigned the sadness breakpoint (pragbe)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-04T20:52:55.820Z",
       "message": "introduced abstraction no one can escape (hufq7g)"
-    },
-    {
-      "timestamp": "2026-05-04T20:27:25.706Z",
-      "message": "removed fallback, embrace failure (lurors)"
     }
   ]
 }
