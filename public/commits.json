@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-07T23:15:19.208Z",
+  "generatedAt": "2026-05-07T23:36:09.609Z",
   "items": [
+    {
+      "timestamp": "2026-05-07T23:36:09.609Z",
+      "message": "reduced existential bundle size (a0z3fx)"
+    },
     {
       "timestamp": "2026-05-07T23:15:19.208Z",
       "message": "improved error message clarity for ghosts (xixyt6)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-05T04:59:56.837Z",
       "message": "added edge case no one asked for (yydg2t)"
-    },
-    {
-      "timestamp": "2026-05-05T03:55:20.969Z",
-      "message": "refined whitespace strategy to appease the void (2vn85h)"
     }
   ]
 }
