@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-08T17:54:50.170Z",
+  "generatedAt": "2026-05-08T18:22:32.508Z",
   "items": [
+    {
+      "timestamp": "2026-05-08T18:22:32.508Z",
+      "message": "updated changelog with lies (chl3jr)"
+    },
     {
       "timestamp": "2026-05-08T17:54:50.170Z",
       "message": "tweaked font feelings (70w349)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-05T23:16:01.698Z",
       "message": "rebalanced spiritual load balancer (2zr11r)"
-    },
-    {
-      "timestamp": "2026-05-05T22:55:14.542Z",
-      "message": "added edge case no one asked for (88lqp4)"
     }
   ]
 }
