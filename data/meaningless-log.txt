@@ -399,3 +399,4 @@
 - 2026-05-09T15:59:08.008Z :: fixed bug that only existed emotionally (aggprc)
 - 2026-05-09T16:26:04.298Z :: fixed bug by ignoring it (zexhna)
 - 2026-05-09T16:46:12.742Z :: added extra semicolon just in case (ouofor)
+- 2026-05-09T17:09:43.978Z :: hardcoded ambient dread (b5fl1g)
