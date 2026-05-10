@@ -452,3 +452,4 @@
 - 2026-05-10T17:56:24.777Z :: added TODO for future me (2dx7xi)
 - 2026-05-10T18:18:53.048Z :: hydrated the variables (k1zqu0)
 - 2026-05-10T18:40:11.125Z :: documented bug as a feature (m7mntn)
+- 2026-05-10T19:05:57.581Z :: destabilized stable behavior for excitement (e13lf8)
