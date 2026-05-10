@@ -451,3 +451,4 @@
 - 2026-05-10T17:34:27.167Z :: fixed bug by ignoring it (x53c1m)
 - 2026-05-10T17:56:24.777Z :: added TODO for future me (2dx7xi)
 - 2026-05-10T18:18:53.048Z :: hydrated the variables (k1zqu0)
+- 2026-05-10T18:40:11.125Z :: documented bug as a feature (m7mntn)
