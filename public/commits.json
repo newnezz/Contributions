@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-10T16:47:49.758Z",
+  "generatedAt": "2026-05-10T17:12:05.839Z",
   "items": [
+    {
+      "timestamp": "2026-05-10T17:12:05.839Z",
+      "message": "removed cursor blink trauma (9qyud6)"
+    },
     {
       "timestamp": "2026-05-10T16:47:49.758Z",
       "message": "reduced latency on fake requests (yjjbrz)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-08T14:45:23.340Z",
       "message": "made function recursive for no reason (gs4xwk)"
-    },
-    {
-      "timestamp": "2026-05-08T14:00:54.498Z",
-      "message": "pinned universe to v4.2.0 (1ehk69)"
     }
   ]
 }
