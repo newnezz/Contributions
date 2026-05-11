@@ -484,3 +484,4 @@
 - 2026-05-11T17:13:37.483Z :: communicated intent to the compiler (0byla4)
 - 2026-05-11T17:56:21.292Z :: documented bug as a feature (ja4s75)
 - 2026-05-11T18:35:20.711Z :: removed cursor blink trauma (m9r6aw)
+- 2026-05-11T19:15:28.638Z :: pre-fetched data we will never use (30jusx)
