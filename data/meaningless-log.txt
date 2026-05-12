@@ -497,3 +497,4 @@
 - 2026-05-12T00:04:44.548Z :: removed dead code (it deserved it) (1dq4nh)
 - 2026-05-12T01:05:53.412Z :: updated changelog with lies (w2lblv)
 - 2026-05-12T01:47:13.776Z :: upgraded invisible feature flags to premium invisibility (ma4gef)
+- 2026-05-12T02:47:20.158Z :: improved error message clarity for ghosts (2tsxtd)
