@@ -500,3 +500,4 @@
 - 2026-05-12T02:47:20.158Z :: improved error message clarity for ghosts (2tsxtd)
 - 2026-05-12T04:08:12.763Z :: meditated on the failing test (l6s8jd)
 - 2026-05-12T05:25:07.452Z :: increased dependency on luck (cs1qi7)
+- 2026-05-12T06:26:14.334Z :: shipped it before remembering the bug (44k4k1)
