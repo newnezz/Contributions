@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-12T01:47:13.797Z",
+  "generatedAt": "2026-05-12T02:47:20.176Z",
   "items": [
+    {
+      "timestamp": "2026-05-12T02:47:20.176Z",
+      "message": "improved error message clarity for ghosts (2tsxtd)"
+    },
     {
       "timestamp": "2026-05-12T01:47:13.797Z",
       "message": "upgraded invisible feature flags to premium invisibility (ma4gef)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-09T16:46:12.762Z",
       "message": "added extra semicolon just in case (ouofor)"
-    },
-    {
-      "timestamp": "2026-05-09T16:26:04.367Z",
-      "message": "fixed bug by ignoring it (zexhna)"
     }
   ]
 }
