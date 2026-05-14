@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-14T07:50:23.081Z",
+  "generatedAt": "2026-05-14T08:48:42.906Z",
   "items": [
+    {
+      "timestamp": "2026-05-14T08:48:42.906Z",
+      "message": "decreased understanding across team (6bmmj1)"
+    },
     {
       "timestamp": "2026-05-14T07:50:23.081Z",
       "message": "delayed execution for suspense (jhuyfw)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-10T23:29:58.105Z",
       "message": "made it slightly worse for consistency (bxisnj)"
-    },
-    {
-      "timestamp": "2026-05-10T23:07:02.311Z",
-      "message": "increased synergy between unrelated files (oebk0o)"
     }
   ]
 }
