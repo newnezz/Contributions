@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-14T22:04:09.488Z",
+  "generatedAt": "2026-05-14T22:32:43.009Z",
   "items": [
+    {
+      "timestamp": "2026-05-14T22:32:43.009Z",
+      "message": "improved error messages to be vague (ep5n7l)"
+    },
     {
       "timestamp": "2026-05-14T22:04:09.488Z",
       "message": "reduced chaos by 3% (fnbc27)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-11T19:15:28.656Z",
       "message": "pre-fetched data we will never use (30jusx)"
-    },
-    {
-      "timestamp": "2026-05-11T18:35:20.734Z",
-      "message": "removed cursor blink trauma (m9r6aw)"
     }
   ]
 }
