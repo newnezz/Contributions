@@ -631,3 +631,4 @@
 - 2026-05-16T07:03:11.796Z :: tweaked font feelings (t9903y)
 - 2026-05-16T07:43:29.518Z :: added config for configurable confusion (0ietkl)
 - 2026-05-16T08:24:46.178Z :: squashed ghost commits (n8vn9u)
+- 2026-05-16T09:03:01.902Z :: decreased understanding across team (6o4jzl)
