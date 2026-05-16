@@ -636,3 +636,4 @@
 - 2026-05-16T10:08:29.938Z :: improved error message clarity for ghosts (7aipxy)
 - 2026-05-16T10:39:16.454Z :: fixed feelings-based null pointer (hwyabf)
 - 2026-05-16T11:04:16.578Z :: added comment explaining the inexplicable (7rdtxj)
+- 2026-05-16T11:29:29.347Z :: normalized ambient semicolons (661vo3)
