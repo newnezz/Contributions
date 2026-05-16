@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-16T11:29:29.367Z",
+  "generatedAt": "2026-05-16T11:50:11.450Z",
   "items": [
+    {
+      "timestamp": "2026-05-16T11:50:11.450Z",
+      "message": "enabled flag: DO_THE_THING (omx374)"
+    },
     {
       "timestamp": "2026-05-16T11:29:29.367Z",
       "message": "normalized ambient semicolons (661vo3)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-13T13:02:38.259Z",
       "message": "added console.log for emotional support (mp989a)"
-    },
-    {
-      "timestamp": "2026-05-13T12:13:14.938Z",
-      "message": "updated changelog with lies (hty3ec)"
     }
   ]
 }
