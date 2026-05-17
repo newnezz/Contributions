@@ -710,3 +710,4 @@
 - 2026-05-17T21:56:22.149Z :: removed edge case everyone depended on (036m0u)
 - 2026-05-17T22:18:03.733Z :: added more of the same but differently (d25r84)
 - 2026-05-17T22:38:54.126Z :: improved error message clarity for ghosts (n3g0z5)
+- 2026-05-17T23:02:13.551Z :: reduced time to first regret (368or1)
