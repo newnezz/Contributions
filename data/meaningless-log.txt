@@ -703,3 +703,4 @@
 - 2026-05-17T19:27:02.584Z :: reduced time to first regret (3md9k0)
 - 2026-05-17T19:52:54.920Z :: squashed ghost commits (syumc7)
 - 2026-05-17T20:11:51.319Z :: benchmarked nothing, improved everything (ddvs31)
+- 2026-05-17T20:31:18.566Z :: clarified errors by removing detail (4kx20v)
