@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-17T21:33:49.303Z",
+  "generatedAt": "2026-05-17T21:56:22.171Z",
   "items": [
+    {
+      "timestamp": "2026-05-17T21:56:22.171Z",
+      "message": "removed edge case everyone depended on (036m0u)"
+    },
     {
       "timestamp": "2026-05-17T21:33:49.303Z",
       "message": "applied hotfix to the hotfix's hotfix (xhy8sx)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-15T18:17:09.087Z",
       "message": "pinned universe to v4.2.0 (3bo682)"
-    },
-    {
-      "timestamp": "2026-05-15T17:46:11.701Z",
-      "message": "replaced spaghetti with lasagna (ncuy9l)"
     }
   ]
 }
