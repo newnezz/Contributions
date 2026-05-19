@@ -758,3 +758,4 @@
 - 2026-05-19T17:40:46.691Z :: shipped it before remembering the bug (8q5j4k)
 - 2026-05-19T18:21:54.037Z :: replaced function with feelings (avojtw)
 - 2026-05-19T19:08:01.853Z :: reverted change from alternate timeline (m3b9f6)
+- 2026-05-19T19:48:46.848Z :: improved error messages to be vague (t3wg5r)
