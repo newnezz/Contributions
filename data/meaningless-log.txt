@@ -753,3 +753,4 @@
 - 2026-05-19T12:20:59.732Z :: improved code posture (pl87ka)
 - 2026-05-19T13:31:27.751Z :: wip: wip (xvwehv)
 - 2026-05-19T14:26:24.884Z :: balanced chaos and order (temporary) (g001bt)
+- 2026-05-19T15:44:25.338Z :: clarified errors by removing detail (1nofhu)
