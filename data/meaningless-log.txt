@@ -762,3 +762,4 @@
 - 2026-05-19T20:21:40.611Z :: decreased elegance, increased confusion (ra0nks)
 - 2026-05-19T20:56:09.883Z :: fixed typo nobody noticed (781tn2)
 - 2026-05-19T21:30:05.755Z :: made function recursive for no reason (kumisq)
+- 2026-05-19T21:59:32.230Z :: removed edge case everyone depended on (pn1fhy)
