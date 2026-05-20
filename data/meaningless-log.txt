@@ -773,3 +773,4 @@
 - 2026-05-20T03:34:09.532Z :: removed abstraction, exposed raw chaos (5zjpmo)
 - 2026-05-20T04:58:33.429Z :: documented bug as a feature (7hxtox)
 - 2026-05-20T06:27:44.790Z :: added loading spinner therapy (5ajyd4)
+- 2026-05-20T07:47:21.357Z :: improved 404 page acceptance (c5wwmo)
