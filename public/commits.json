@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-20T04:58:33.449Z",
+  "generatedAt": "2026-05-20T06:27:44.812Z",
   "items": [
+    {
+      "timestamp": "2026-05-20T06:27:44.812Z",
+      "message": "added loading spinner therapy (5ajyd4)"
+    },
     {
       "timestamp": "2026-05-20T04:58:33.449Z",
       "message": "documented bug as a feature (7hxtox)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-17T04:42:54.756Z",
       "message": "removed synergy entirely (8pl3pz)"
-    },
-    {
-      "timestamp": "2026-05-17T03:20:24.413Z",
-      "message": "removed abstraction, exposed raw chaos (8v34r1)"
     }
   ]
 }
