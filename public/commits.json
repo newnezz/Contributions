@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-23T15:39:42.807Z",
+  "generatedAt": "2026-05-23T16:04:29.366Z",
   "items": [
+    {
+      "timestamp": "2026-05-23T16:04:29.366Z",
+      "message": "removed edge case everyone depended on (v3yfsx)"
+    },
     {
       "timestamp": "2026-05-23T15:39:42.807Z",
       "message": "provisioned placeholder server (0m5oad)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-20T04:58:33.449Z",
       "message": "documented bug as a feature (7hxtox)"
-    },
-    {
-      "timestamp": "2026-05-20T03:34:09.552Z",
-      "message": "removed abstraction, exposed raw chaos (5zjpmo)"
     }
   ]
 }
