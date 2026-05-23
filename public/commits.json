@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-23T21:35:03.114Z",
+  "generatedAt": "2026-05-23T21:57:47.671Z",
   "items": [
+    {
+      "timestamp": "2026-05-23T21:57:47.671Z",
+      "message": "reduced latency on fake requests (xfsh8u)"
+    },
     {
       "timestamp": "2026-05-23T21:35:03.114Z",
       "message": "updated changelog with lies (0bjkne)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-20T20:09:22.355Z",
       "message": "added loading spinner therapy (v7tu1t)"
-    },
-    {
-      "timestamp": "2026-05-20T19:21:20.724Z",
-      "message": "set memory limit to 'enough' (mgb7lu)"
     }
   ]
 }
