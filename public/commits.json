@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-23T16:04:29.366Z",
+  "generatedAt": "2026-05-23T16:29:28.237Z",
   "items": [
+    {
+      "timestamp": "2026-05-23T16:29:28.237Z",
+      "message": "attuned logger to moon phase (z8vyb2)"
+    },
     {
       "timestamp": "2026-05-23T16:04:29.366Z",
       "message": "removed edge case everyone depended on (v3yfsx)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-20T06:27:44.812Z",
       "message": "added loading spinner therapy (5ajyd4)"
-    },
-    {
-      "timestamp": "2026-05-20T04:58:33.449Z",
-      "message": "documented bug as a feature (7hxtox)"
     }
   ]
 }
