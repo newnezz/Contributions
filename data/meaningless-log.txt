@@ -932,3 +932,4 @@
 - 2026-05-24T23:08:49.551Z :: added fallback to sheer willpower (7lpoer)
 - 2026-05-24T23:33:16.687Z :: added loading spinner therapy (r2w46i)
 - 2026-05-24T23:56:30.700Z :: fixed bug introduced by fixing previous bug (am43uy)
+- 2026-05-25T00:37:58.548Z :: added edge case no one asked for (izrmo7)
