@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-26T21:46:58.979Z",
+  "generatedAt": "2026-05-26T22:17:24.582Z",
   "items": [
+    {
+      "timestamp": "2026-05-26T22:17:24.582Z",
+      "message": "introduced abstraction no one can escape (73f6jh)"
+    },
     {
       "timestamp": "2026-05-26T21:46:58.979Z",
       "message": "broke formatting, fixed nothing (a1bmlv)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-23T20:31:57.018Z",
       "message": "introduced new standard, ignored it (5nqiqu)"
-    },
-    {
-      "timestamp": "2026-05-23T20:12:33.307Z",
-      "message": "removed comments that had answers (0fdu5d)"
     }
   ]
 }
