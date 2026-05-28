@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-05-28T07:39:20.768Z",
+  "generatedAt": "2026-05-28T08:54:57.393Z",
   "items": [
+    {
+      "timestamp": "2026-05-28T08:54:57.393Z",
+      "message": "clarified errors by removing detail (4khm4s)"
+    },
     {
       "timestamp": "2026-05-28T07:39:20.768Z",
       "message": "shipped it before remembering the bug (jmep7f)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-24T17:25:34.001Z",
       "message": "upgraded invisible feature flags to premium invisibility (wqetsi)"
-    },
-    {
-      "timestamp": "2026-05-24T16:58:15.807Z",
-      "message": "worsened build time by thinking more (vx49bl)"
     }
   ]
 }
