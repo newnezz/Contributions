@@ -1116,3 +1116,4 @@
 - 2026-05-31T16:15:13.367Z :: tuned algorithm for vibes not accuracy (39vl3x)
 - 2026-05-31T16:42:04.089Z :: aligned brackets with chakras (2q4tpw)
 - 2026-05-31T17:08:55.326Z :: removed cursor blink trauma (nbjef6)
+- 2026-05-31T17:35:19.432Z :: added config for configurable confusion (2v9jtg)
