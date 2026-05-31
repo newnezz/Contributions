@@ -1117,3 +1117,4 @@
 - 2026-05-31T16:42:04.089Z :: aligned brackets with chakras (2q4tpw)
 - 2026-05-31T17:08:55.326Z :: removed cursor blink trauma (nbjef6)
 - 2026-05-31T17:35:19.432Z :: added config for configurable confusion (2v9jtg)
+- 2026-05-31T17:59:34.415Z :: clarified errors by removing detail (iy67v6)
