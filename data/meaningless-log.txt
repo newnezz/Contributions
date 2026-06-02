@@ -1164,3 +1164,4 @@
 - 2026-06-02T18:25:34.194Z :: added unnecessary optimization (05x6f3)
 - 2026-06-02T19:43:38.990Z :: enabled flag: DO_THE_THING (qd823r)
 - 2026-06-02T20:42:46.437Z :: reduced latency on fake requests (y0j4gw)
+- 2026-06-02T21:41:54.916Z :: removed synergy entirely (vndlzn)
