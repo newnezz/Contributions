@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-01T23:43:56.959Z",
+  "generatedAt": "2026-06-02T00:12:23.486Z",
   "items": [
+    {
+      "timestamp": "2026-06-02T00:12:23.486Z",
+      "message": "improved readability (subjectively) (cmk8sh)"
+    },
     {
       "timestamp": "2026-06-01T23:43:56.959Z",
       "message": "normalized ambient semicolons (1628mw)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-29T21:38:28.721Z",
       "message": "bumped version for morale (736ebr)"
-    },
-    {
-      "timestamp": "2026-05-29T20:57:58.388Z",
-      "message": "fixed formatting, broke everything else (zwgx3s)"
     }
   ]
 }
