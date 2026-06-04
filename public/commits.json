@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-04T11:00:44.581Z",
+  "generatedAt": "2026-06-04T12:07:02.390Z",
   "items": [
+    {
+      "timestamp": "2026-06-04T12:07:02.390Z",
+      "message": "removed abstraction, exposed raw chaos (ptubjp)"
+    },
     {
       "timestamp": "2026-06-04T11:00:44.581Z",
       "message": "retroactively improved past decisions (e1dcvn)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-05-31T02:11:57.671Z",
       "message": "reverted the revert of the revert (mllvau)"
-    },
-    {
-      "timestamp": "2026-05-31T01:22:36.249Z",
-      "message": "terraformed the staging environment feelings (3q8fmb)"
     }
   ]
 }
