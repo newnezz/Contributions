@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-06T04:42:09.955Z",
+  "generatedAt": "2026-06-06T06:01:43.538Z",
   "items": [
+    {
+      "timestamp": "2026-06-06T06:01:43.538Z",
+      "message": "added config for configurable confusion (ixdaku)"
+    },
     {
       "timestamp": "2026-06-06T04:42:09.955Z",
       "message": "documented bug as a feature (h3eedl)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-01T20:15:03.447Z",
       "message": "wip: wip (qmc2qt)"
-    },
-    {
-      "timestamp": "2026-06-01T18:45:30.083Z",
-      "message": "debounced the existential crisis handler (wn4b07)"
     }
   ]
 }
