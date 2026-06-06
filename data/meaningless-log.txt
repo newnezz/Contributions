@@ -1264,3 +1264,4 @@
 - 2026-06-06T17:55:03.031Z :: removed feature everyone imagined (bflcyu)
 - 2026-06-06T18:20:51.106Z :: added code back, felt regret (rfhnr6)
 - 2026-06-06T18:50:04.322Z :: introduced new standard, ignored it (xkx75n)
+- 2026-06-06T19:21:07.756Z :: updated changelog with lies (hzf1fw)
