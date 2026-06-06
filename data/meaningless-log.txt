@@ -1253,3 +1253,4 @@
 - 2026-06-06T12:08:07.205Z :: optimized recursion into oblivion (evrane)
 - 2026-06-06T12:43:31.395Z :: fixed bug that only existed emotionally (piyfpl)
 - 2026-06-06T13:12:38.437Z :: decreased elegance, increased confusion (1d0rly)
+- 2026-06-06T13:53:51.477Z :: refactored cursor hesitation (jpghip)
