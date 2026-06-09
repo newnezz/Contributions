@@ -1354,3 +1354,4 @@
 - 2026-06-09T20:16:49.491Z :: added more comments, none helpful (783weo)
 - 2026-06-09T21:00:50.392Z :: configured auto-scaling for bad ideas (atxphn)
 - 2026-06-09T21:40:59.482Z :: memoized developer confusion (9erqur)
+- 2026-06-09T22:14:25.234Z :: removed fallback, embrace failure (v3w8d0)
