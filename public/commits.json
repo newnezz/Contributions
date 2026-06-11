@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-11T06:40:30.428Z",
+  "generatedAt": "2026-06-11T08:20:53.928Z",
   "items": [
+    {
+      "timestamp": "2026-06-11T08:20:53.928Z",
+      "message": "upgraded invisible feature flags (skmaw4)"
+    },
     {
       "timestamp": "2026-06-11T06:40:30.428Z",
       "message": "delayed execution for suspense (m2am0y)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-07T12:48:06.627Z",
       "message": "removed edge case everyone depended on (0vxzdh)"
-    },
-    {
-      "timestamp": "2026-06-07T12:11:03.997Z",
-      "message": "enabled flag: DO_THE_THING (fohnil)"
     }
   ]
 }
