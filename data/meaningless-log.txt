@@ -1401,3 +1401,4 @@
 - 2026-06-11T22:13:24.051Z :: added fallback for existential failure (43hxfj)
 - 2026-06-11T22:53:16.302Z :: improved build time by waiting less (s2al5c)
 - 2026-06-11T23:25:06.906Z :: manifested a hotfix (62kmx1)
+- 2026-06-11T23:59:20.633Z :: removed abstraction, exposed raw chaos (nlrlqy)
