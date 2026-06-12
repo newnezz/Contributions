@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-12T03:25:42.989Z",
+  "generatedAt": "2026-06-12T05:05:39.132Z",
   "items": [
+    {
+      "timestamp": "2026-06-12T05:05:39.132Z",
+      "message": "removed fallback, embrace failure (p4ox1h)"
+    },
     {
       "timestamp": "2026-06-12T03:25:42.989Z",
       "message": "improved error messages to be vague (zm8ivs)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-07T22:36:16.705Z",
       "message": "optimized imaginary latency (q4wu56)"
-    },
-    {
-      "timestamp": "2026-06-07T22:10:09.434Z",
-      "message": "removed abstraction, exposed raw chaos (kc454p)"
     }
   ]
 }
