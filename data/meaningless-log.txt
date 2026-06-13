@@ -1447,3 +1447,4 @@
 - 2026-06-13T17:08:14.810Z :: fixed bug that only existed emotionally (xheqkb)
 - 2026-06-13T17:42:41.976Z :: reduced file size by deleting hopes and dreams (g3u50b)
 - 2026-06-13T18:09:23.213Z :: added fallback to sheer willpower (hjgpim)
+- 2026-06-13T18:42:49.947Z :: removed synergy entirely (lcciij)
