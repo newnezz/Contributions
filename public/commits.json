@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-13T01:22:05.305Z",
+  "generatedAt": "2026-06-13T02:11:11.209Z",
   "items": [
+    {
+      "timestamp": "2026-06-13T02:11:11.209Z",
+      "message": "reduced existential bundle size (nmxz99)"
+    },
     {
       "timestamp": "2026-06-13T01:22:05.305Z",
       "message": "reverted the revert of the revert (1vjkqk)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-08T22:00:17.117Z",
       "message": "removed edge case everyone depended on (g383wh)"
-    },
-    {
-      "timestamp": "2026-06-08T21:20:27.900Z",
-      "message": "destabilized stable behavior for excitement (xnsxz8)"
     }
   ]
 }
