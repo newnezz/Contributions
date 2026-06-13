@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-12T23:29:11.034Z",
+  "generatedAt": "2026-06-13T00:03:11.788Z",
   "items": [
+    {
+      "timestamp": "2026-06-13T00:03:11.788Z",
+      "message": "decreased understanding across team (qbazbf)"
+    },
     {
       "timestamp": "2026-06-12T23:29:11.034Z",
       "message": "rebased on vibes (sue4f0)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-08T20:39:08.154Z",
       "message": "parallelized unnecessary work (yibmed)"
-    },
-    {
-      "timestamp": "2026-06-08T19:51:55.645Z",
-      "message": "increased file size by adding unnecessary clarity (uc6fyg)"
     }
   ]
 }
