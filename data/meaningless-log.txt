@@ -1464,3 +1464,4 @@
 - 2026-06-14T03:27:18.797Z :: removed fallback, embrace failure (ab3f0v)
 - 2026-06-14T05:08:51.594Z :: shipped it before remembering the bug (gu10xp)
 - 2026-06-14T06:47:54.474Z :: removed cursor blink trauma (wkh6xl)
+- 2026-06-14T08:17:11.337Z :: upgraded invisible feature flags to premium invisibility (js4u0m)
