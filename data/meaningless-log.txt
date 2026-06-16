@@ -1521,3 +1521,4 @@
 - 2026-06-16T19:04:18.464Z :: upgraded invisible feature flags to premium invisibility (sh1nhd)
 - 2026-06-16T20:12:22.986Z :: reduced file size by deleting hopes and dreams (oon8h9)
 - 2026-06-16T21:18:07.170Z :: boosted theoretical throughput (sveofe)
+- 2026-06-16T22:04:52.161Z :: documented bug as a feature (tojauw)
