@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-18T19:54:53.704Z",
+  "generatedAt": "2026-06-18T20:43:55.910Z",
   "items": [
+    {
+      "timestamp": "2026-06-18T20:43:55.910Z",
+      "message": "boosted theoretical throughput (zkxt2h)"
+    },
     {
       "timestamp": "2026-06-18T19:54:53.704Z",
       "message": "made it slightly worse for consistency (2ih6ge)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-14T09:31:55.121Z",
       "message": "improved error message clarity for ghosts (gc2luy)"
-    },
-    {
-      "timestamp": "2026-06-14T08:17:11.360Z",
-      "message": "upgraded invisible feature flags to premium invisibility (js4u0m)"
     }
   ]
 }
