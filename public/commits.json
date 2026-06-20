@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-20T18:17:25.411Z",
+  "generatedAt": "2026-06-20T18:50:52.164Z",
   "items": [
+    {
+      "timestamp": "2026-06-20T18:50:52.164Z",
+      "message": "improved hover regret handling (fotjlu)"
+    },
     {
       "timestamp": "2026-06-20T18:17:25.411Z",
       "message": "added emotional dark mode (ole7r6)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-16T19:04:18.494Z",
       "message": "upgraded invisible feature flags to premium invisibility (sh1nhd)"
-    },
-    {
-      "timestamp": "2026-06-16T17:50:54.166Z",
-      "message": "shipped it before remembering the bug (wxmsos)"
     }
   ]
 }
