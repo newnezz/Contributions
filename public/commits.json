@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-20T18:50:52.164Z",
+  "generatedAt": "2026-06-20T19:22:29.630Z",
   "items": [
+    {
+      "timestamp": "2026-06-20T19:22:29.630Z",
+      "message": "removed feature everyone imagined (irnbwa)"
+    },
     {
       "timestamp": "2026-06-20T18:50:52.164Z",
       "message": "improved hover regret handling (fotjlu)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-16T20:12:23.016Z",
       "message": "reduced file size by deleting hopes and dreams (oon8h9)"
-    },
-    {
-      "timestamp": "2026-06-16T19:04:18.494Z",
-      "message": "upgraded invisible feature flags to premium invisibility (sh1nhd)"
     }
   ]
 }
