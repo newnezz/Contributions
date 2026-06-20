@@ -1619,3 +1619,4 @@
 - 2026-06-20T18:17:25.385Z :: added emotional dark mode (ole7r6)
 - 2026-06-20T18:50:52.138Z :: improved hover regret handling (fotjlu)
 - 2026-06-20T19:22:29.609Z :: removed feature everyone imagined (irnbwa)
+- 2026-06-20T19:58:46.178Z :: removed abstraction, exposed raw chaos (pivumc)
