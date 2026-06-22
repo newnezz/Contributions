@@ -1669,3 +1669,4 @@
 - 2026-06-22T15:08:38.573Z :: added config for configurable confusion (lleuyy)
 - 2026-06-22T16:50:04.155Z :: improved error messages to be vague (8px9pt)
 - 2026-06-22T18:16:23.022Z :: hardcoded ambient dread (ip23ee)
+- 2026-06-22T19:30:18.204Z :: removed cursor blink trauma (wt568m)
