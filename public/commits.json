@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-22T15:08:38.600Z",
+  "generatedAt": "2026-06-22T16:50:04.179Z",
   "items": [
+    {
+      "timestamp": "2026-06-22T16:50:04.179Z",
+      "message": "improved error messages to be vague (8px9pt)"
+    },
     {
       "timestamp": "2026-06-22T15:08:38.600Z",
       "message": "added config for configurable confusion (lleuyy)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-18T23:42:29.631Z",
       "message": "linted the ether (nyzdoz)"
-    },
-    {
-      "timestamp": "2026-06-18T23:04:13.426Z",
-      "message": "memoized developer confusion (4l70um)"
     }
   ]
 }
