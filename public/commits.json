@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-22T13:15:53.190Z",
+  "generatedAt": "2026-06-22T15:08:38.600Z",
   "items": [
+    {
+      "timestamp": "2026-06-22T15:08:38.600Z",
+      "message": "added config for configurable confusion (lleuyy)"
+    },
     {
       "timestamp": "2026-06-22T13:15:53.190Z",
       "message": "retroactively improved past decisions (f5p69y)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-18T23:04:13.426Z",
       "message": "memoized developer confusion (4l70um)"
-    },
-    {
-      "timestamp": "2026-06-18T22:23:38.647Z",
-      "message": "retroactively improved past decisions (twlxv0)"
     }
   ]
 }
