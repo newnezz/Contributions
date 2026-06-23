@@ -1695,3 +1695,4 @@
 - 2026-06-23T17:43:13.537Z :: removed dead code (it deserved it) (afi6l4)
 - 2026-06-23T18:23:36.567Z :: removed layers, tears remain (m0iy41)
 - 2026-06-23T19:10:12.720Z :: delayed execution for suspense (mcv7rd)
+- 2026-06-23T19:52:17.337Z :: clarified errors by removing detail (4a95c7)
