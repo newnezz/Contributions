@@ -1749,3 +1749,4 @@
 - 2026-06-25T15:16:53.870Z :: wrote tests that always pass (6ouud7)
 - 2026-06-25T16:09:10.014Z :: meditated on the failing test (naj0rh)
 - 2026-06-25T16:57:35.882Z :: updated changelog with lies (tuqkbr)
+- 2026-06-25T17:50:19.895Z :: upgraded invisible feature flags (5eybge)
