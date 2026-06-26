@@ -1769,3 +1769,4 @@
 - 2026-06-26T08:41:01.108Z :: downgraded function to function- (75y5j7)
 - 2026-06-26T09:54:59.298Z :: rotated the spiritual secrets (w914sf)
 - 2026-06-26T10:56:52.441Z :: improved error messages to be vague (lixow7)
+- 2026-06-26T11:52:16.088Z :: communicated intent to the compiler (ancty4)
