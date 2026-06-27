@@ -1798,3 +1798,4 @@
 - 2026-06-27T07:52:55.852Z :: added code back, felt regret (flmr55)
 - 2026-06-27T08:48:38.250Z :: vibes-checked the entire codebase (catfr4)
 - 2026-06-27T09:35:50.870Z :: delayed execution for suspense (9t1f5y)
+- 2026-06-27T10:22:41.220Z :: documented bug as a feature (10shsb)
