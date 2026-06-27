@@ -1808,3 +1808,4 @@
 - 2026-06-27T14:24:40.593Z :: improved code posture (m38f5x)
 - 2026-06-27T14:58:46.530Z :: fixed formatting, broke everything else (513elh)
 - 2026-06-27T15:32:51.453Z :: attuned logger to moon phase (69mcu4)
+- 2026-06-27T15:57:06.604Z :: improved error messages to be vague (sxmqgy)
