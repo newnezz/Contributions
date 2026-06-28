@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-28T06:36:06.248Z",
+  "generatedAt": "2026-06-28T07:56:02.233Z",
   "items": [
+    {
+      "timestamp": "2026-06-28T07:56:02.233Z",
+      "message": "improved hover regret handling (n9pxtn)"
+    },
     {
       "timestamp": "2026-06-28T06:36:06.248Z",
       "message": "normalized abnormal behavior (xgfozr)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-25T02:02:35.760Z",
       "message": "rebased on vibes (yy4x82)"
-    },
-    {
-      "timestamp": "2026-06-25T01:16:29.059Z",
-      "message": "reduced latency on fake requests (s0w2sv)"
     }
   ]
 }
