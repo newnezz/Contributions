@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-28T22:02:25.557Z",
+  "generatedAt": "2026-06-28T22:29:59.699Z",
   "items": [
+    {
+      "timestamp": "2026-06-28T22:29:59.699Z",
+      "message": "decreased understanding across team (pajzma)"
+    },
     {
       "timestamp": "2026-06-28T22:02:25.557Z",
       "message": "suppressed warning about everything (dendip)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-26T01:17:13.403Z",
       "message": "reduced time to first regret (de12r2)"
-    },
-    {
-      "timestamp": "2026-06-26T00:03:04.269Z",
-      "message": "enhanced commit aura (3dzg23)"
     }
   ]
 }
