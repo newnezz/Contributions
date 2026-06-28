@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-28T07:56:02.233Z",
+  "generatedAt": "2026-06-28T09:00:34.674Z",
   "items": [
+    {
+      "timestamp": "2026-06-28T09:00:34.674Z",
+      "message": "removed fallback, embrace failure (iw9h22)"
+    },
     {
       "timestamp": "2026-06-28T07:56:02.233Z",
       "message": "improved hover regret handling (n9pxtn)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-25T03:20:15.031Z",
       "message": "fixed mobile vibes on samsung fridge (0krys4)"
-    },
-    {
-      "timestamp": "2026-06-25T02:02:35.760Z",
-      "message": "rebased on vibes (yy4x82)"
     }
   ]
 }
