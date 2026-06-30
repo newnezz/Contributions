@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-06-30T15:18:02.503Z",
+  "generatedAt": "2026-06-30T16:10:53.606Z",
   "items": [
+    {
+      "timestamp": "2026-06-30T16:10:53.606Z",
+      "message": "reduced time to first regret (nfr6qc)"
+    },
     {
       "timestamp": "2026-06-30T15:18:02.503Z",
       "message": "reduced chaos by 3% (t4q4o6)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-27T13:51:55.460Z",
       "message": "added safety check, removed safety (x09yza)"
-    },
-    {
-      "timestamp": "2026-06-27T13:11:22.567Z",
-      "message": "upgraded invisible feature flags (rahoz1)"
     }
   ]
 }
