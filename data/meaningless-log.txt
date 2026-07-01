@@ -1939,3 +1939,4 @@
 - 2026-07-01T20:27:53.288Z :: added config for configurable confusion (us0p27)
 - 2026-07-01T21:03:29.652Z :: polished pixel alignment again but spiritually (hcn5me)
 - 2026-07-01T21:40:09.394Z :: deployed to imagination (ijd8ea)
+- 2026-07-01T22:09:07.707Z :: hardcoded ambient dread (7kzkjr)
