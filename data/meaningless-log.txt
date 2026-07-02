@@ -1948,3 +1948,4 @@
 - 2026-07-02T05:09:37.326Z :: enabled flag: DO_THE_THING (53ckry)
 - 2026-07-02T08:22:11.092Z :: set memory limit to 'enough' (2srkt9)
 - 2026-07-02T11:02:52.884Z :: removed fallback, embrace failure (faumv9)
+- 2026-07-02T13:01:54.053Z :: added edge case no one asked for (ad6iwv)
