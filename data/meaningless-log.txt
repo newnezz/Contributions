@@ -1980,3 +1980,4 @@
 - 2026-07-04T15:50:42.074Z :: added TODO for future me (dxi4dn)
 - 2026-07-04T16:44:04.948Z :: shipped it before remembering the bug (p9lnhb)
 - 2026-07-04T17:43:43.505Z :: upgraded the abstract syntax feelings (o8p1l6)
+- 2026-07-04T18:40:28.110Z :: memoized developer confusion (6j3diw)
