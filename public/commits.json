@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-05T23:39:04.488Z",
+  "generatedAt": "2026-07-06T01:19:47.723Z",
   "items": [
+    {
+      "timestamp": "2026-07-06T01:19:47.723Z",
+      "message": "improved error message clarity for ghosts (ep4o2m)"
+    },
     {
       "timestamp": "2026-07-05T23:39:04.488Z",
       "message": "hydrated the variables (4lc9bq)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-06-30T16:10:53.606Z",
       "message": "reduced time to first regret (nfr6qc)"
-    },
-    {
-      "timestamp": "2026-06-30T15:18:02.503Z",
-      "message": "reduced chaos by 3% (t4q4o6)"
     }
   ]
 }
