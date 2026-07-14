@@ -2115,3 +2115,4 @@
 - 2026-07-14T05:16:39.806Z :: attuned logger to moon phase (t023w6)
 - 2026-07-14T07:20:56.230Z :: set memory limit to 'enough' (upmxhp)
 - 2026-07-14T09:19:33.518Z :: added edge case no one asked for (cgbo4k)
+- 2026-07-14T10:57:21.094Z :: removed cursor blink trauma (67ui1z)
