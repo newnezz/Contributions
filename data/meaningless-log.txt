@@ -2128,3 +2128,4 @@
 - 2026-07-14T22:41:45.512Z :: added unnecessary optimization (0lbzc1)
 - 2026-07-14T23:31:03.781Z :: added config for configurable confusion (b77mm9)
 - 2026-07-15T00:50:47.719Z :: pre-fetched data we will never use (0uaadv)
+- 2026-07-15T03:49:02.384Z :: clarified errors by removing detail (rzb3xu)
