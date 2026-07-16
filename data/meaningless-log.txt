@@ -2152,3 +2152,4 @@
 - 2026-07-16T13:23:10.672Z :: rebalanced spiritual load balancer (nwun1f)
 - 2026-07-16T15:15:34.015Z :: worsened naming (definitive) (c0ou10)
 - 2026-07-16T16:41:24.696Z :: added config for configurable confusion (tfplki)
+- 2026-07-16T17:49:42.342Z :: improved error messages to be vague (zg6j3i)
