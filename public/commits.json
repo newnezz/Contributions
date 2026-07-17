@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-16T23:28:03.647Z",
+  "generatedAt": "2026-07-17T00:57:43.725Z",
   "items": [
+    {
+      "timestamp": "2026-07-17T00:57:43.725Z",
+      "message": "manifested a hotfix (eq1ccv)"
+    },
     {
       "timestamp": "2026-07-16T23:28:03.647Z",
       "message": "upgraded TODOs to aspirations (qu26h7)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-07-11T00:08:24.141Z",
       "message": "added comments that ask more questions (9dcus2)"
-    },
-    {
-      "timestamp": "2026-07-10T23:13:46.792Z",
-      "message": "squashed ghost commits (fu2290)"
     }
   ]
 }
