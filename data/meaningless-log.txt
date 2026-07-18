@@ -2183,3 +2183,4 @@
 - 2026-07-18T08:19:09.074Z :: unbroke something unrelated (vh5o6b)
 - 2026-07-18T09:48:02.200Z :: normalized ambient semicolons (92sgau)
 - 2026-07-18T10:49:35.358Z :: updated changelog with lies (pbuwcc)
+- 2026-07-18T11:38:30.695Z :: upgraded invisible feature flags to premium invisibility (e7ltkp)
