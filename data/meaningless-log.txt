@@ -2194,3 +2194,4 @@
 - 2026-07-18T19:40:14.465Z :: added extra semicolon just in case (m55nh8)
 - 2026-07-18T20:25:10.661Z :: reduced existential bundle size (1v54d2)
 - 2026-07-18T21:09:52.414Z :: upgraded logic to vibes-based decision engine (rk0t6l)
+- 2026-07-18T22:03:06.594Z :: clarified errors by removing detail (ul5cke)
