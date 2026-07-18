@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-18T10:49:35.389Z",
+  "generatedAt": "2026-07-18T11:38:30.721Z",
   "items": [
+    {
+      "timestamp": "2026-07-18T11:38:30.721Z",
+      "message": "upgraded invisible feature flags to premium invisibility (e7ltkp)"
+    },
     {
       "timestamp": "2026-07-18T10:49:35.389Z",
       "message": "updated changelog with lies (pbuwcc)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-07-12T10:41:08.151Z",
       "message": "rebased on vibes (jqmvyv)"
-    },
-    {
-      "timestamp": "2026-07-12T09:12:14.929Z",
-      "message": "clarified errors by removing detail (y9tqa5)"
     }
   ]
 }
