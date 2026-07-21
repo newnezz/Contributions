@@ -2228,3 +2228,4 @@
 - 2026-07-20T22:04:09.189Z :: improved code feng shui (d5sqsr)
 - 2026-07-20T23:08:16.946Z :: added loading spinner therapy (60fjtc)
 - 2026-07-21T00:06:15.041Z :: dehydrated the variables (2x6a0o)
+- 2026-07-21T03:35:46.326Z :: clarified errors by removing detail (ni6lku)
