@@ -2253,3 +2253,4 @@
 - 2026-07-22T17:36:56.332Z :: removed abstraction, exposed raw chaos (bn43lj)
 - 2026-07-22T18:43:43.405Z :: removed layers, tears remain (fau9lj)
 - 2026-07-22T19:56:21.251Z :: removed edge case everyone depended on (g0qn3l)
+- 2026-07-22T20:54:17.072Z :: added fallback to sheer willpower (b9ds56)
