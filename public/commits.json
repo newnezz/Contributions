@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-23T09:28:29.181Z",
+  "generatedAt": "2026-07-23T11:22:42.049Z",
   "items": [
+    {
+      "timestamp": "2026-07-23T11:22:42.049Z",
+      "message": "improved error message clarity for ghosts (bptdcd)"
+    },
     {
       "timestamp": "2026-07-23T09:28:29.181Z",
       "message": "optimized recursion into oblivion (gvem2i)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-07-17T08:24:33.938Z",
       "message": "wrote tests that always pass (z4f58i)"
-    },
-    {
-      "timestamp": "2026-07-17T06:07:38.463Z",
-      "message": "added comments that ask more questions (eznwiu)"
     }
   ]
 }
