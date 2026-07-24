@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-07-24T20:00:04.311Z",
+  "generatedAt": "2026-07-24T21:02:53.241Z",
   "items": [
+    {
+      "timestamp": "2026-07-24T21:02:53.241Z",
+      "message": "enhanced button confidence (mcynt7)"
+    },
     {
       "timestamp": "2026-07-24T20:00:04.311Z",
       "message": "optimized nothing but said it confidently (2tmd5x)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-07-18T11:38:30.721Z",
       "message": "upgraded invisible feature flags to premium invisibility (e7ltkp)"
-    },
-    {
-      "timestamp": "2026-07-18T10:49:35.389Z",
-      "message": "updated changelog with lies (pbuwcc)"
     }
   ]
 }
