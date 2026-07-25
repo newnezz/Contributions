@@ -2298,3 +2298,4 @@
 - 2026-07-25T16:38:20.202Z :: replaced magic numbers with cursed numbers (kknk9a)
 - 2026-07-25T17:36:46.429Z :: tuned algorithm for vibes not accuracy (o63x5m)
 - 2026-07-25T18:32:06.962Z :: linted the ether (hlagi9)
+- 2026-07-25T19:44:42.950Z :: clarified errors by removing detail (rerjhv)
