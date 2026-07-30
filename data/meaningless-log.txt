@@ -2371,3 +2371,4 @@
 - 2026-07-30T16:08:22.364Z :: removed comments that had answers (3prrqd)
 - 2026-07-30T17:44:04.101Z :: tuned algorithm for vibes not accuracy (cbga0q)
 - 2026-07-30T19:00:05.630Z :: removed unnecessary existence from codebase (up6wb9)
+- 2026-07-30T20:13:15.111Z :: clarified errors by removing detail (hv0ss2)
