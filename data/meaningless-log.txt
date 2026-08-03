@@ -2433,3 +2433,4 @@
 - 2026-08-03T20:37:18.435Z :: fixed bug by ignoring it (btqb2s)
 - 2026-08-03T21:44:28.526Z :: improved keyboard acoustics (by3nox)
 - 2026-08-03T22:40:28.180Z :: redesigned the sadness breakpoint (o7se9i)
+- 2026-08-03T23:43:42.730Z :: added config for configurable confusion (myhf02)
