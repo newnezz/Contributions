@@ -2425,3 +2425,4 @@
 - 2026-08-03T00:08:17.332Z :: removed feature everyone imagined (nex4yp)
 - 2026-08-03T03:48:19.952Z :: reverted change from alternate timeline (vww9df)
 - 2026-08-03T06:47:37.822Z :: fixed typo nobody noticed (87xk77)
+- 2026-08-03T10:27:14.521Z :: reduced latency on fake requests (17bw5a)
