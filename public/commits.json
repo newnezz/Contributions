@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-03T23:43:42.764Z",
+  "generatedAt": "2026-08-04T01:05:09.716Z",
   "items": [
+    {
+      "timestamp": "2026-08-04T01:05:09.716Z",
+      "message": "removed cursor blink trauma (w07g0v)"
+    },
     {
       "timestamp": "2026-08-03T23:43:42.764Z",
       "message": "added config for configurable confusion (myhf02)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-07-28T09:20:10.027Z",
       "message": "replaced magic numbers with cursed numbers (406qvt)"
-    },
-    {
-      "timestamp": "2026-07-28T06:37:03.093Z",
-      "message": "reduced existential bundle size (1k0t2q)"
     }
   ]
 }
