@@ -2461,3 +2461,4 @@
 - 2026-08-05T21:57:51.389Z :: upgraded function to function+ (kd0nmp)
 - 2026-08-05T22:51:35.389Z :: manifested a hotfix (1s0vcv)
 - 2026-08-05T23:42:08.023Z :: deprecated developer intuition (ysqakx)
+- 2026-08-06T01:02:26.863Z :: removed abstraction, exposed raw chaos (hsqqr4)
