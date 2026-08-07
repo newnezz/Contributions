@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-07T22:17:43.453Z",
+  "generatedAt": "2026-08-07T22:56:21.666Z",
   "items": [
+    {
+      "timestamp": "2026-08-07T22:56:21.665Z",
+      "message": "improved error message clarity for ghosts (8ucctl)"
+    },
     {
       "timestamp": "2026-08-07T22:17:43.453Z",
       "message": "tuned the background anxiety thread (syij1v)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-01T10:24:34.469Z",
       "message": "added more of the same but differently (yravo9)"
-    },
-    {
-      "timestamp": "2026-08-01T08:55:52.266Z",
-      "message": "added more layers than an onion (t75jsn)"
     }
   ]
 }
