@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-07T09:35:32.155Z",
+  "generatedAt": "2026-08-07T10:28:13.668Z",
   "items": [
+    {
+      "timestamp": "2026-08-07T10:28:13.668Z",
+      "message": "improved startup time by starting earlier (llnmuy)"
+    },
     {
       "timestamp": "2026-08-07T09:35:32.155Z",
       "message": "improved 404 page acceptance (88ckev)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-07-31T04:32:16.998Z",
       "message": "shipped it before remembering the bug (tdshi6)"
-    },
-    {
-      "timestamp": "2026-07-31T01:07:03.147Z",
-      "message": "introduced minor catastrophe (t6wv6o)"
     }
   ]
 }
