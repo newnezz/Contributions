@@ -2516,3 +2516,4 @@
 - 2026-08-08T14:41:05.448Z :: restored harmonic dependency balance (tji9rw)
 - 2026-08-08T15:01:54.037Z :: polished pixel alignment (j9clx9)
 - 2026-08-08T15:33:43.662Z :: refactored for aesthetic symmetry (kqulh5)
+- 2026-08-08T15:57:32.709Z :: improved error message clarity for ghosts (msc04u)
