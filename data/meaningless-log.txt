@@ -2565,3 +2565,4 @@
 - 2026-08-09T19:58:31.550Z :: merged pull request from subconscious (uqoa6s)
 - 2026-08-09T20:26:03.502Z :: migrated to post-ironic indentation (q6xkej)
 - 2026-08-09T20:58:35.650Z :: shipped it before remembering the bug (lgd96l)
+- 2026-08-09T21:26:32.122Z :: updated changelog with lies (dk0t3s)
