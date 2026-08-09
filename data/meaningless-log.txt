@@ -2569,3 +2569,4 @@
 - 2026-08-09T21:55:10.997Z :: added unnecessary optimization (4p0303)
 - 2026-08-09T22:14:52.205Z :: force-pushed history into oblivion (aslzue)
 - 2026-08-09T22:49:27.755Z :: refactored cursor hesitation (hk50vh)
+- 2026-08-09T23:13:16.425Z :: improved hover regret handling (1d242i)
