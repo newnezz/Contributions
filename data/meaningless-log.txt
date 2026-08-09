@@ -2567,3 +2567,4 @@
 - 2026-08-09T20:58:35.650Z :: shipped it before remembering the bug (lgd96l)
 - 2026-08-09T21:26:32.122Z :: updated changelog with lies (dk0t3s)
 - 2026-08-09T21:55:10.997Z :: added unnecessary optimization (4p0303)
+- 2026-08-09T22:14:52.205Z :: force-pushed history into oblivion (aslzue)
