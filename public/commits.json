@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-09T20:58:35.682Z",
+  "generatedAt": "2026-08-09T21:26:32.155Z",
   "items": [
+    {
+      "timestamp": "2026-08-09T21:26:32.155Z",
+      "message": "updated changelog with lies (dk0t3s)"
+    },
     {
       "timestamp": "2026-08-09T20:58:35.682Z",
       "message": "shipped it before remembering the bug (lgd96l)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-06T13:15:03.875Z",
       "message": "enabled flag: DO_THE_THING (it5q2g)"
-    },
-    {
-      "timestamp": "2026-08-06T11:40:22.813Z",
-      "message": "removed comments that had answers (750nsj)"
     }
   ]
 }
