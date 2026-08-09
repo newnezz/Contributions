@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-09T22:49:27.775Z",
+  "generatedAt": "2026-08-09T23:13:16.454Z",
   "items": [
+    {
+      "timestamp": "2026-08-09T23:13:16.453Z",
+      "message": "improved hover regret handling (1d242i)"
+    },
     {
       "timestamp": "2026-08-09T22:49:27.775Z",
       "message": "refactored cursor hesitation (hk50vh)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-07T05:07:53.217Z",
       "message": "dehydrated the variables (ij76av)"
-    },
-    {
-      "timestamp": "2026-08-07T03:23:51.786Z",
-      "message": "added TODO for future me (nimxkw)"
     }
   ]
 }
