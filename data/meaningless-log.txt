@@ -2713,3 +2713,4 @@
 - 2026-08-15T08:14:53.285Z :: resolved merge conflict with the universe (95cr5t)
 - 2026-08-15T08:43:48.023Z :: removed feature everyone imagined (lhdvfy)
 - 2026-08-15T09:01:13.120Z :: stabilized vibe-driven architecture (kns3pb)
+- 2026-08-15T09:27:33.503Z :: improved error message clarity for ghosts (buw857)
