@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-15T09:01:13.142Z",
+  "generatedAt": "2026-08-15T09:27:33.558Z",
   "items": [
+    {
+      "timestamp": "2026-08-15T09:27:33.558Z",
+      "message": "improved error message clarity for ghosts (buw857)"
+    },
     {
       "timestamp": "2026-08-15T09:01:13.142Z",
       "message": "stabilized vibe-driven architecture (kns3pb)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-11T20:05:28.716Z",
       "message": "reduced time to first regret (fekyow)"
-    },
-    {
-      "timestamp": "2026-08-11T19:17:11.555Z",
-      "message": "memoized developer confusion (a1yaou)"
     }
   ]
 }
