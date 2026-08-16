@@ -2783,3 +2783,4 @@
 - 2026-08-16T09:55:02.045Z :: added comment explaining the inexplicable (mfeb0x)
 - 2026-08-16T10:09:16.870Z :: resolved phantom race condition (8guler)
 - 2026-08-16T10:35:15.438Z :: documented bug as a feature (er5wo4)
+- 2026-08-16T10:52:07.479Z :: attuned logger to moon phase (t3wmfq)
