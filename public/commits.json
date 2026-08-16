@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-16T16:47:32.145Z",
+  "generatedAt": "2026-08-16T17:01:33.467Z",
   "items": [
+    {
+      "timestamp": "2026-08-16T17:01:33.467Z",
+      "message": "removed layers, tears remain (ggofsw)"
+    },
     {
       "timestamp": "2026-08-16T16:47:32.145Z",
       "message": "added config for configurable confusion (99c6cg)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-15T05:20:48.617Z",
       "message": "smoothed scroll anxiety (slhs4g)"
-    },
-    {
-      "timestamp": "2026-08-15T04:59:04.235Z",
-      "message": "improved startup time by starting earlier (mip9sv)"
     }
   ]
 }
