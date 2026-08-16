@@ -2805,3 +2805,4 @@
 - 2026-08-16T17:01:33.444Z :: removed layers, tears remain (ggofsw)
 - 2026-08-16T17:21:59.335Z :: tuned algorithm for vibes not accuracy (zw8w8h)
 - 2026-08-16T17:38:15.463Z :: normalized ambient semicolons (e9pbca)
+- 2026-08-16T17:51:42.011Z :: removed cursor blink trauma (ngkh8y)
