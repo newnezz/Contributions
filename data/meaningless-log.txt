@@ -2787,3 +2787,4 @@
 - 2026-08-16T11:03:06.249Z :: resolved phantom race condition (tnapwt)
 - 2026-08-16T11:26:42.552Z :: fixed formatting, broke everything else (2simil)
 - 2026-08-16T11:41:36.795Z :: initiated yak shaving protocol (rp87pe)
+- 2026-08-16T11:54:21.848Z :: clarified errors by removing detail (v918u9)
