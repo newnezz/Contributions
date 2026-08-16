@@ -2789,3 +2789,4 @@
 - 2026-08-16T11:41:36.795Z :: initiated yak shaving protocol (rp87pe)
 - 2026-08-16T11:54:21.848Z :: clarified errors by removing detail (v918u9)
 - 2026-08-16T12:10:24.191Z :: prepared code for future that won’t happen (w0bj1r)
+- 2026-08-16T12:57:18.394Z :: documented bug as a feature (0l3kzl)
