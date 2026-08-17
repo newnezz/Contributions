@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-17T12:38:03.735Z",
+  "generatedAt": "2026-08-17T13:23:32.926Z",
   "items": [
+    {
+      "timestamp": "2026-08-17T13:23:32.926Z",
+      "message": "updated changelog with lies (kp9t0a)"
+    },
     {
       "timestamp": "2026-08-17T12:38:03.734Z",
       "message": "manifested a hotfix (px2yp5)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-15T20:35:24.008Z",
       "message": "upgraded function to function+ (ajehf0)"
-    },
-    {
-      "timestamp": "2026-08-15T20:10:19.573Z",
-      "message": "removed semicolon, living dangerously (c560b1)"
     }
   ]
 }
