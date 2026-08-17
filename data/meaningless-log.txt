@@ -2861,3 +2861,4 @@
 - 2026-08-17T17:14:22.157Z :: added more layers than an onion (6edqxk)
 - 2026-08-17T17:43:58.600Z :: added TODO for future me (i2df9m)
 - 2026-08-17T18:02:23.861Z :: added fallback for existential failure (dclkaw)
+- 2026-08-17T18:47:28.475Z :: added comment explaining the inexplicable (7sboec)
