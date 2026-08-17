@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-17T22:01:32.807Z",
+  "generatedAt": "2026-08-17T22:27:22.043Z",
   "items": [
+    {
+      "timestamp": "2026-08-17T22:27:22.043Z",
+      "message": "decreased understanding across team (82yqrw)"
+    },
     {
       "timestamp": "2026-08-17T22:01:32.807Z",
       "message": "memoized developer confusion (4y5283)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-16T06:36:39.165Z",
       "message": "retroactively improved past decisions (vfee8b)"
-    },
-    {
-      "timestamp": "2026-08-16T05:59:44.914Z",
-      "message": "improved keyboard acoustics (jux71c)"
     }
   ]
 }
