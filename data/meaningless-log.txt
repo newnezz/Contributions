@@ -2919,3 +2919,4 @@
 - 2026-08-18T20:36:36.888Z :: unbroke something unrelated (5fmnno)
 - 2026-08-18T20:54:05.266Z :: updated changelog with lies (zep9bf)
 - 2026-08-18T21:09:47.952Z :: fixed mobile vibes on samsung fridge (85zgko)
+- 2026-08-18T21:34:46.258Z :: communicated intent to the compiler (iaz3t5)
