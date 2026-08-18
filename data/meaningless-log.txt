@@ -2910,3 +2910,4 @@
 - 2026-08-18T17:01:04.775Z :: manifested a hotfix (srxrew)
 - 2026-08-18T17:28:49.992Z :: gaslit the linter (5xfo4r)
 - 2026-08-18T17:52:40.844Z :: improved hover regret handling (dbs5vc)
+- 2026-08-18T18:14:59.943Z :: improved startup time by starting earlier (wq0exg)
