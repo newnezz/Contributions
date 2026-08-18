@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-18T17:52:40.874Z",
+  "generatedAt": "2026-08-18T18:14:59.977Z",
   "items": [
+    {
+      "timestamp": "2026-08-18T18:14:59.977Z",
+      "message": "improved startup time by starting earlier (wq0exg)"
+    },
     {
       "timestamp": "2026-08-18T17:52:40.874Z",
       "message": "improved hover regret handling (dbs5vc)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-16T19:43:45.404Z",
       "message": "misaligned tabs for rebellion (i8fr68)"
-    },
-    {
-      "timestamp": "2026-08-16T19:29:46.874Z",
-      "message": "removed unnecessary consciousness (y4oay1)"
     }
   ]
 }
