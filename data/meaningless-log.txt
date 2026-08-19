@@ -2940,3 +2940,4 @@
 - 2026-08-19T06:54:21.679Z :: made it slightly worse for consistency (jbirhw)
 - 2026-08-19T07:26:48.217Z :: hardcoded ambient dread (31rz6j)
 - 2026-08-19T07:59:43.144Z :: wrote tests that always pass (b2nsd4)
+- 2026-08-19T08:34:44.198Z :: force-pushed history into oblivion (d3c8tn)
