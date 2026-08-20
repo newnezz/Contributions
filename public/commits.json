@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-20T04:44:46.236Z",
+  "generatedAt": "2026-08-20T05:14:33.367Z",
   "items": [
+    {
+      "timestamp": "2026-08-20T05:14:33.367Z",
+      "message": "updated changelog with lies (vckq6t)"
+    },
     {
       "timestamp": "2026-08-20T04:44:46.236Z",
       "message": "added loading spinner therapy (m4edbd)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-18T05:43:29.218Z",
       "message": "reduced chaos by 3% (w604rm)"
-    },
-    {
-      "timestamp": "2026-08-18T05:13:26.083Z",
-      "message": "cached the ineffable (pd186f)"
     }
   ]
 }
