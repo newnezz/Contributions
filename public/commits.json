@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-20T17:38:19.908Z",
+  "generatedAt": "2026-08-20T17:59:29.559Z",
   "items": [
+    {
+      "timestamp": "2026-08-20T17:59:29.559Z",
+      "message": "fixed formatting, broke everything else (13kqdr)"
+    },
     {
       "timestamp": "2026-08-20T17:38:19.908Z",
       "message": "removed synergy entirely (2n7z9l)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-18T17:28:50.022Z",
       "message": "gaslit the linter (5xfo4r)"
-    },
-    {
-      "timestamp": "2026-08-18T17:01:04.804Z",
-      "message": "manifested a hotfix (srxrew)"
     }
   ]
 }
