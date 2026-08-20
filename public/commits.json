@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-20T22:01:25.147Z",
+  "generatedAt": "2026-08-20T22:30:08.666Z",
   "items": [
+    {
+      "timestamp": "2026-08-20T22:30:08.666Z",
+      "message": "upgraded the abstract syntax feelings (4i2bjx)"
+    },
     {
       "timestamp": "2026-08-20T22:01:25.147Z",
       "message": "improved hover regret handling (ewowfz)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-18T21:09:47.983Z",
       "message": "fixed mobile vibes on samsung fridge (85zgko)"
-    },
-    {
-      "timestamp": "2026-08-18T20:54:05.297Z",
-      "message": "updated changelog with lies (zep9bf)"
     }
   ]
 }
