@@ -3016,3 +3016,4 @@
 - 2026-08-20T20:56:50.413Z :: simplified complexity into complex simplicity (buh6rs)
 - 2026-08-20T21:18:46.162Z :: documented bug as a feature (0k47ea)
 - 2026-08-20T21:45:52.568Z :: memoized developer confusion (spiu66)
+- 2026-08-20T22:01:25.122Z :: improved hover regret handling (ewowfz)
