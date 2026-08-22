@@ -3070,3 +3070,4 @@
 - 2026-08-21T23:24:40.082Z :: added safety check, removed safety (7a1ect)
 - 2026-08-21T23:43:12.954Z :: removed abstraction, exposed raw chaos (pau92k)
 - 2026-08-21T23:58:08.773Z :: improved naming (arguable) (9ls3zk)
+- 2026-08-22T00:54:20.994Z :: polished pixel alignment again but spiritually (h1anxp)
