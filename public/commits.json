@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-22T22:17:33.956Z",
+  "generatedAt": "2026-08-22T22:40:32.978Z",
   "items": [
+    {
+      "timestamp": "2026-08-22T22:40:32.978Z",
+      "message": "reduced latency on fake requests (3kds0h)"
+    },
     {
       "timestamp": "2026-08-22T22:17:33.956Z",
       "message": "updated changelog with lies (5n3vxt)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-21T05:39:45.656Z",
       "message": "removed cursor blink trauma (m7rgm8)"
-    },
-    {
-      "timestamp": "2026-08-21T05:04:30.126Z",
-      "message": "optimized nothing but said it confidently (cwq435)"
     }
   ]
 }
