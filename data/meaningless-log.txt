@@ -3090,3 +3090,4 @@
 - 2026-08-22T09:54:59.885Z :: removed fallback, embrace failure (u06vmg)
 - 2026-08-22T10:09:09.451Z :: unbroke something unrelated (pijva9)
 - 2026-08-22T10:35:45.130Z :: optimized imaginary latency (to78b4)
+- 2026-08-22T10:52:53.512Z :: normalized ambient semicolons (pu0lgq)
