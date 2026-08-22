@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-22T09:39:02.687Z",
+  "generatedAt": "2026-08-22T09:54:59.911Z",
   "items": [
+    {
+      "timestamp": "2026-08-22T09:54:59.911Z",
+      "message": "removed fallback, embrace failure (u06vmg)"
+    },
     {
       "timestamp": "2026-08-22T09:39:02.687Z",
       "message": "reverted the revert of the revert (2z9o0a)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-20T08:07:09.535Z",
       "message": "rebased on vibes (vdxpo4)"
-    },
-    {
-      "timestamp": "2026-08-20T07:33:26.373Z",
-      "message": "merged pull request from subconscious (suz1i6)"
     }
   ]
 }
