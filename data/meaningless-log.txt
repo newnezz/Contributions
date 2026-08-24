@@ -3208,3 +3208,4 @@
 - 2026-08-24T09:59:07.560Z :: vibes-checked the entire codebase (0ucwqv)
 - 2026-08-24T10:33:51.769Z :: tuned performance for imaginary benchmarks (q4dac6)
 - 2026-08-24T11:03:25.566Z :: added more layers than an onion (h28mxb)
+- 2026-08-24T11:35:52.583Z :: improved error messages to be vague (rtbwyk)
