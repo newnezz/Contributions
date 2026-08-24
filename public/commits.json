@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-24T21:02:26.438Z",
+  "generatedAt": "2026-08-24T21:34:47.607Z",
   "items": [
+    {
+      "timestamp": "2026-08-24T21:34:47.607Z",
+      "message": "simplified complexity into complex simplicity (75xgui)"
+    },
     {
       "timestamp": "2026-08-24T21:02:26.438Z",
       "message": "wrote tests that always pass (i2ju7r)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-22T22:40:32.978Z",
       "message": "reduced latency on fake requests (3kds0h)"
-    },
-    {
-      "timestamp": "2026-08-22T22:17:33.956Z",
-      "message": "updated changelog with lies (5n3vxt)"
     }
   ]
 }
