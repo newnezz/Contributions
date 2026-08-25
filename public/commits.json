@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-25T16:18:01.620Z",
+  "generatedAt": "2026-08-25T16:57:30.463Z",
   "items": [
+    {
+      "timestamp": "2026-08-25T16:57:30.463Z",
+      "message": "shipped it before remembering the bug (mgohhp)"
+    },
     {
       "timestamp": "2026-08-25T16:18:01.620Z",
       "message": "incremented the magic number (8yeqh8)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-23T14:01:10.915Z",
       "message": "introduced abstraction no one can escape (4v8nv6)"
-    },
-    {
-      "timestamp": "2026-08-23T13:47:08.842Z",
-      "message": "fixed typo, introduced philosophy (pi19ly)"
     }
   ]
 }
