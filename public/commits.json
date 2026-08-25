@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-25T16:57:30.463Z",
+  "generatedAt": "2026-08-25T17:23:57.339Z",
   "items": [
+    {
+      "timestamp": "2026-08-25T17:23:57.339Z",
+      "message": "smoothed scroll anxiety (a12tmc)"
+    },
     {
       "timestamp": "2026-08-25T16:57:30.463Z",
       "message": "shipped it before remembering the bug (mgohhp)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-23T14:25:28.471Z",
       "message": "upgraded invisible feature flags (26yjgt)"
-    },
-    {
-      "timestamp": "2026-08-23T14:01:10.915Z",
-      "message": "introduced abstraction no one can escape (4v8nv6)"
     }
   ]
 }
