@@ -3242,3 +3242,4 @@
 - 2026-08-25T04:50:34.499Z :: enabled flag: DO_THE_THING (813sq0)
 - 2026-08-25T05:18:22.253Z :: reduced latency on fake requests (hdbg8z)
 - 2026-08-25T05:49:03.131Z :: transcended the merge queue (u4twbu)
+- 2026-08-25T06:18:08.451Z :: removed cursor blink trauma (9ivl99)
