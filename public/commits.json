@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-08-26T14:00:05.998Z",
+  "generatedAt": "2026-08-26T14:42:43.918Z",
   "items": [
+    {
+      "timestamp": "2026-08-26T14:42:43.918Z",
+      "message": "fixed bug introduced by fixing previous bug (xf63bv)"
+    },
     {
       "timestamp": "2026-08-26T14:00:05.998Z",
       "message": "merged pull request from subconscious (2hzzi3)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-08-24T04:54:50.015Z",
       "message": "improved startup time by starting earlier (uxb5sv)"
-    },
-    {
-      "timestamp": "2026-08-24T04:04:37.154Z",
-      "message": "manifested a hotfix (egaaev)"
     }
   ]
 }
