@@ -3435,3 +3435,4 @@
 - 2026-09-15T08:45:46.857Z :: updated changelog with lies (j3sw1b)
 - 2026-09-15T13:52:31.411Z :: added emotional dark mode (svtadm)
 - 2026-09-15T17:47:01.793Z :: refactored for aesthetic symmetry (3ttpjx)
+- 2026-09-15T20:27:46.389Z :: removed cursor blink trauma (tylni5)
