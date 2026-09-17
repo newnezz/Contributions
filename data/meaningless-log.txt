@@ -3447,3 +3447,4 @@
 - 2026-09-17T01:46:26.842Z :: added fallback to sheer willpower (70wdmx)
 - 2026-09-17T06:41:20.853Z :: adjusted padding for emotional balance (jata0m)
 - 2026-09-17T12:03:09.764Z :: reverted change from alternate timeline (x486im)
+- 2026-09-17T16:48:53.690Z :: documented bug as a feature (vodeli)
