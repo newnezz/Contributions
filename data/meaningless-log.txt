@@ -3471,3 +3471,4 @@
 - 2026-09-20T11:22:28.776Z :: refactored cursor hesitation (zpf7co)
 - 2026-09-20T14:44:23.557Z :: improved build time by waiting less (5q43q3)
 - 2026-09-20T17:40:16.266Z :: reduced function name meaning (nlnf1j)
+- 2026-09-20T19:42:32.858Z :: improved hover regret handling (vrx5yp)
