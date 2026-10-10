@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-10-10T01:09:31.455Z",
+  "generatedAt": "2026-10-10T06:59:43.209Z",
   "items": [
+    {
+      "timestamp": "2026-10-10T06:59:43.209Z",
+      "message": "added comments that ask more questions (uwziy6)"
+    },
     {
       "timestamp": "2026-10-10T01:09:31.455Z",
       "message": "decreased understanding across team (0ci8tw)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-09-21T18:47:26.924Z",
       "message": "cached the ineffable (oc3pve)"
-    },
-    {
-      "timestamp": "2026-09-21T13:23:44.214Z",
-      "message": "moved fast and broke something different (9prwse)"
     }
   ]
 }
