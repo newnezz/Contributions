@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-10-22T22:11:43.056Z",
+  "generatedAt": "2026-10-23T00:37:40.790Z",
   "items": [
+    {
+      "timestamp": "2026-10-23T00:37:40.790Z",
+      "message": "removed comments that had answers (7lxemr)"
+    },
     {
       "timestamp": "2026-10-22T22:11:43.056Z",
       "message": "made it slightly worse for consistency (it73hp)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-10-05T00:00:03.230Z",
       "message": "transcended the merge queue (u7rbjl)"
-    },
-    {
-      "timestamp": "2026-10-04T21:22:06.784Z",
-      "message": "gaslit the linter (n2bmii)"
     }
   ]
 }
