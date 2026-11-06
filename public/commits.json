@@ -1,6 +1,10 @@
 {
-  "generatedAt": "2026-11-05T21:35:31.233Z",
+  "generatedAt": "2026-11-06T01:45:42.740Z",
   "items": [
+    {
+      "timestamp": "2026-11-06T01:45:42.740Z",
+      "message": "manifested a hotfix (0h8r9u)"
+    },
     {
       "timestamp": "2026-11-05T21:35:31.233Z",
       "message": "reduced existential bundle size (z5ty8b)"
@@ -396,10 +400,6 @@
     {
       "timestamp": "2026-10-18T12:49:36.269Z",
       "message": "rebased on vibes (j6ctl7)"
-    },
-    {
-      "timestamp": "2026-10-18T08:55:35.599Z",
-      "message": "moved fast and broke something different (whryny)"
     }
   ]
 }
