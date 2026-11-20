@@ -3778,3 +3778,4 @@
 - 2026-11-19T11:58:13.975Z :: suppressed warning about everything (ym0k15)
 - 2026-11-19T19:51:37.499Z :: fixed feelings-based null pointer (kzynsr)
 - 2026-11-20T01:27:20.714Z :: memoized developer confusion (l28o6u)
+- 2026-11-20T08:46:38.739Z :: enabled flag: DO_THE_THING (4wudrn)
